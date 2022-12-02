@@ -1,5 +1,5 @@
 {
-  "name": "@bothrs/expo-mixpanel-analytics",
+  "name": "@invig/expo-mixpanel-analytics",
   "version": "2.0.2",
   "description": "Mixpanel integration for use with React Native apps built on Expo 39.",
   "main": "dist/src/index.js",
